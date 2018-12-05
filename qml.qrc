@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>js/gibberish-aes-1.0.0.js</file>
+        <file>js/privnoteCommon.js</file>
+        <file>img/privnote-logo.svg</file>
+        <file>qml/AppStyle.qml</file>
+        <file>qml/qmldir</file>
+        <file>qml/CreateNoteView.qml</file>
+        <file>qml/ShareNoteView.qml</file>
+        <file>qml/AppButton.qml</file>
+        <file>qml/HelpDialog.qml</file>
+        <file>qml/OptionsView.qml</file>
+        <file>qml/AppCheckBox.qml</file>
+        <file>qml/AppTextField.qml</file>
+    </qresource>
+</RCC>
